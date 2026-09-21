@@ -1,8 +1,8 @@
 class Seam < Formula
   desc "Read a change by definition rather than by file"
   homepage "https://github.com/booka66/seam"
-  url "https://github.com/booka66/seam/archive/refs/tags/v0.9.2.tar.gz"
-  sha256 "317dc8f51148ec5828c6bc43c068fa4beebb18f038af7479e43125e1f1130fd1"
+  url "https://github.com/booka66/seam/archive/refs/tags/v0.10.0.tar.gz"
+  sha256 "9e046a7db492dda7c809c2160289a522800f05a74c9df554c3a4871fae8a9f63"
 
   depends_on "ast-grep"
   depends_on "jq"
